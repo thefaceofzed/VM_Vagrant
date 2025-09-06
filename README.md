@@ -75,8 +75,4 @@ If you see 403 Forbidden, make sure files from dist/ are copied into /var/www/ht
 
 ✍️ Maintained by Ismail El farouki
 
-
-
----
-
 👉 Want me to also include a **demo SQL file (`create-table.sql` + `insert-demo-data.sql`)** in the repo so MySQL always l
